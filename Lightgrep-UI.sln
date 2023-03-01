@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lightgrep-UI", "Lightgrep-UI\Lightgrep-UI.csproj", "{40E3CC38-F1EB-48E4-96F5-9A623FFD7765}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40E3CC38-F1EB-48E4-96F5-9A623FFD7765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40E3CC38-F1EB-48E4-96F5-9A623FFD7765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40E3CC38-F1EB-48E4-96F5-9A623FFD7765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40E3CC38-F1EB-48E4-96F5-9A623FFD7765}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C71DABD-2E99-419A-8BA5-3F04717A6894}
+	EndGlobalSection
+EndGlobal
