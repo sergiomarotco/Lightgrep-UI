@@ -15,7 +15,12 @@
     <PackageTags>grep</PackageTags>
     <StartupObject>Lightgrep_UI.Program</StartupObject>
     <PackageIcon>icon.png</PackageIcon>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="icon.ico" />
+  </ItemGroup>
 
   <ItemGroup>
     <Compile Update="Properties\Settings.Designer.cs">
