@@ -68,8 +68,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(469, 27);
             this.textBox1.TabIndex = 2;
-            this.textBox1.Text = "((http|git|ssh|http(s)|file|\\/?)|(git@[\\w\\.]+))(:(\\/\\/)?)([\\w\\.@\\:/\\-~]+)(\\.git)(" +
-    "\\/)?";
+            this.textBox1.Text = "regex";
             // 
             // linkLabel1
             // 
@@ -98,9 +97,9 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(12, 47);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(150, 20);
+            this.label2.Size = new System.Drawing.Size(53, 20);
             this.label2.TabIndex = 5;
-            this.label2.Text = "String to be searched";
+            this.label2.Text = "Regex:";
             // 
             // label3
             // 
