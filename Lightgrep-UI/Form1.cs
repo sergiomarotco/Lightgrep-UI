@@ -1,5 +1,4 @@
 using System.Diagnostics;
-using System.DirectoryServices;
 using System.Text.RegularExpressions;
 
 namespace Lightgrep_UI
@@ -13,7 +12,7 @@ namespace Lightgrep_UI
 
         private void LinkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Process.Start("https://github.com/sergiomarotco");
+            Process.Start("https://github.com/sergiomarotco/Lightgrep-UI");
         }
 
         private void LinkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
