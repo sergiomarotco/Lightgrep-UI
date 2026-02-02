@@ -1,4 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiomarotco&show_icons=true&theme=radical)
 # Lightgrep-UI
 ## Description
 The application searches the text for the search string (regular expression), generates a file with the results in a temporary folder and opens a temporary file with the results
